@@ -29,4 +29,4 @@ TARGET_OTA_ASSERT_DEVICE := T1-A21W,T1-A21L,T1-A23L
 TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)/releasetools
 
 # inherit from the proprietary version
--include vendor/huawei/cherry/BoardConfigVendor.mk
+-include vendor/huawei/hwt1a21l/BoardConfigVendor.mk
