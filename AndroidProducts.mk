@@ -14,8 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_hwt1a21l.mk
-COMMON_LUNCH_CHOICES := \
-    full_hwt1a21l-user \
-    full_hwt1a21l-userdebug \
-    full_hwt1a21l-eng
+    $(LOCAL_DIR)/lineage_hwt1a21l.mk
