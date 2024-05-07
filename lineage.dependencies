@@ -5,7 +5,8 @@
   },
   {
     "repository": "android_kernel_huawei_msm8916",
-    "target_path": "kernel/huawei/msm8916"
+    "target_path": "kernel/huawei/msm8916",
+    "branch": "lineage-16.0"
   },
   {
     "repository": "android_kernel_huawei_hwt1a21l",
