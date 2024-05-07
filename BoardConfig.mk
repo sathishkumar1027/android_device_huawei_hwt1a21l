@@ -22,6 +22,10 @@
 
 DEVICE_PATH := device/huawei/hwt1a21l
 
+# Kernel
+TARGET_KERNEL_SOURCE := kernel/huawei/msm8916
+TARGET_KERNEL_CONFIG := lineageos_cherry_defconfig
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := T1-A21W,T1-A21L,T1-A23L
 
