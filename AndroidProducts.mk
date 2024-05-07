@@ -16,6 +16,6 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_hwt1a21l.mk
 COMMON_LUNCH_CHOICES := \
-    full_hwt1a21l_arm-user \
-    full_hwt1a21l_arm-userdebug \
-    full_hwt1a21l_arm-eng
+    full_hwt1a21l-user \
+    full_hwt1a21l-userdebug \
+    full_hwt1a21l-eng
